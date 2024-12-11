@@ -16,7 +16,8 @@ Hi, I'm Salilesh Verma, a passionate B.Tech Computer Science undergraduate stude
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+"Why do programmers prefer dark mode?
+... Because light attracts bugs!" 🪲😂
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salileshverma&icon=1&color=0)](https://visitcount.itsvg.in)
